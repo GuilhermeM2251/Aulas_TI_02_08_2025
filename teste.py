@@ -1,3 +1,2 @@
 print("alo")
-^D
-^X]
+print("turma tudo bem")
